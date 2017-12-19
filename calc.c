@@ -18,7 +18,7 @@ int main()
  printf("multiplicatioin %d",c); 
  printf("dividion %d",c);
  printf("module %d",c);
-  
+  return 0;
 
 
 }
