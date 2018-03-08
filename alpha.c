@@ -3,7 +3,7 @@ int main (void)
 {
     char a;
     printf("characterr\n");
-    scanf("%s",a);
+    scanf("%s",&a);
     if((a>=65)&&(a<=90))
     {
         printf(" alphabet it is\n");
