@@ -4,7 +4,7 @@ int main(void)
 {
 	int a,b,c;
 	printf("enter three number\n");
-	scanf("%d%d%d",&a1,&b1,&c1);
+	scanf("%d%d%d",&a,&b,&c);
 	if((a>b)&&(a>c))
 	{
 		printf("%d is greater",a);
