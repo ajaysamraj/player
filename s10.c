@@ -1,6 +1,7 @@
 #include<stdio.h>
 int main (void)
 {
-    int c=153555;
+    int c ;
+    scanf("%d",&c);
      printf("\n%d",printf("%d",c));
 }
