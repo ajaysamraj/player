@@ -2,7 +2,7 @@
 int main (void)
 {
     int a[100],i,k,sum=0,n;
-    printf("enter the limit\n");
+    printf("range\n");
     scanf("%d",&n);
     for(i=0;i<n;i++)
     {
@@ -13,5 +13,5 @@ int main (void)
     {
         sum=sum+a[i];
     }
-    printf("the sum is %d",sum);
+    printf("the sum of the first is %d",sum);
 }
